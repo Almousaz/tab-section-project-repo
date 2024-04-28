@@ -10,4 +10,4 @@ Our project involves creating a tab section that includes numerous tabs, each wi
 
 ### demo
 ---
-click [here]() to see demo
+click [here](https://almousaz.github.io/tab-section-project-repo/) to see demo
